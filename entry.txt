@@ -1,0 +1,1 @@
+My agent calls itself autonomous, then hands one sentence to a subagent and writes a status report about the status report.
